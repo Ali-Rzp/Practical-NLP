@@ -23,7 +23,7 @@ The first notebook follows a small text corpus through a practical NLP workflow:
 ### Option 1: Google Colab
 
 1. Open the notebook in this repository.
-2. Select **Open in Colab** (or download the notebook and upload it to [Google Colab](https://colab.research.google.com/)).
+2. Or launch it directly in Google Colab: [Open Session 01 in Colab](https://colab.research.google.com/github/Ali-Rzp/Practical-NLP/blob/main/Session-01/NLP_Text_Processing_and_Analysis.ipynb).
 3. Run the cells from top to bottom.
 
 ### Option 2: Run locally
@@ -69,7 +69,3 @@ Practical-NLP/
 - Run the notebook cells in order because later sections reuse objects and resources created earlier.
 - The examples use English text and NLTK's English-language resources.
 - Preprocessing choices are task-dependent; removing punctuation or stop words is not always appropriate for every NLP application.
-
-## License
-
-Unless otherwise specified, the educational materials in this repository are provided under the MIT License.
