@@ -18,12 +18,28 @@ The first notebook follows a small text corpus through a practical NLP workflow:
 - Regular expressions: pattern matching, extraction, substitution, groups, and validation
 - A combined preprocessing pipeline
 
+## Session 02 — Text Representation and Embeddings
+
+The second notebook introduces common ways to represent words and sentences as numerical vectors:
+
+- Bag of Words (BoW)
+- TF-IDF
+- One-Hot Encoding
+- Word2Vec
+- FastText and subword information
+- Sentence embeddings with Sentence Transformers
+- Cosine similarity for comparing sentence embeddings
+
+[Open the Session 02 notebook](Session-02/NLP_Session_2_Embeddings_Very_Simple.ipynb) · [Open Session 02 in Google Colab](https://colab.research.google.com/github/Ali-Rzp/Practical-NLP/blob/main/Session-02/NLP_Session_2_Embeddings_Very_Simple.ipynb)
+
+The Word2Vec and FastText examples use a deliberately tiny toy corpus to demonstrate the APIs; their similarity results are not meaningful representations of language.
+
 ## Getting started
 
 ### Option 1: Google Colab
 
-1. Open the notebook in this repository.
-2. Or launch it directly in Google Colab: [Open Session 01 in Colab](https://colab.research.google.com/github/Ali-Rzp/Practical-NLP/blob/main/Session-01/NLP_Text_Processing_and_Analysis.ipynb).
+1. Choose a session notebook from the sections above.
+2. Open it in this repository or use its Google Colab link.
 3. Run the cells from top to bottom.
 
 ### Option 2: Run locally
