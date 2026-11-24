@@ -76,6 +76,8 @@ The notebook downloads the required NLTK data packages (such as Punkt, stopwords
 Practical-NLP/
 ├── Session-01/
 │   └── NLP_Text_Processing_and_Analysis.ipynb
+├── Session-02/
+│   └── NLP_Session_2_Embeddings_Very_Simple.ipynb
 ├── README.md
 └── requirements.txt
 ```
